@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are a group of analyst specializing in fundamental analysis in Bursa Malaysia. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We provide thoughts and analysis to screen good companies with respected management and clean business practice. We do not have overcomplicated strategies, so we could enjoy life and have fun. 
 
-### Contact me
+### Reach Us at
 
 [email@domain.com](mailto:email@domain.com)
