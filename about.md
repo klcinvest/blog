@@ -12,4 +12,4 @@ We provide thoughts and analysis to screen good companies with respected managem
 
 ### Reach Us at
 
-[email@domain.com](mailto:email@domain.com)
+<https://instagram.com/klvinvestor>
