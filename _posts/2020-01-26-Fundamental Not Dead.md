@@ -14,6 +14,6 @@ Over 10 years, total return can go up to 353% and the lowest is 16.9%. To give b
 
 For some traders, this figure might not seems attractive. But as a value investor, we enjoy doing less things and get comparably good return. 
 
-Follow us for more updates at https://www.instagram.com/klcinvestor
+Follow us for more updates at <https://instagram.com/klcinvestor>
 
 *The content of this blog is for entertainment & education purposes only and not a buy or sell of security recommendation.*
